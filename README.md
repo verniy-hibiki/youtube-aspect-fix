@@ -11,7 +11,7 @@ Fix videos that are originally 4:3 that have been stretched to 16:9
    - [Tampermonkey for Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/)
 
 2. **Install the YouTube Volume Booster script**:
-   - [Install YouTube Volume Booster](https://github.com/verniy-hibiki/youtube-volume-booster/raw/main/youtube-aspect-fix.user.js)
+   - [Install YouTube Aspect Ratio Fixer](https://github.com/verniy-hibiki/youtube-aspect-fix/raw/main/youtube-aspect-fix.user.js)
 
 ## Usage
 
