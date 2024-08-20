@@ -17,6 +17,6 @@ Fix videos that are originally 4:3 that have been stretched to 16:9
 
 Once installed, the script will add a button to the right side of YouTube video controls:
 - **Arrow**: Original aspect ratio
-- **4:3**: Volume boost is on.
+- **4:3**: Aspect ratio is set to 4:3
 
 Click to toggle between them
